@@ -1,7 +1,5 @@
 package creational_patterns.builder
 
-//https://refactoring.guru/ru/design-patterns/builder
-
 fun main() {
 
     println("This is builder pattern for single class")
